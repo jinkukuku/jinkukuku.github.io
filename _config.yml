@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinkukuku github-page"
+title                    : "Ku page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jinkukuku"
+name                     : "Ku"
 description              : "My study record book."
 url                      : "https://jinkukuku.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
